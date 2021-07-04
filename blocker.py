@@ -3,9 +3,9 @@ import time
 from datetime import datetime as dt
 
 account_sid = 'AC669cb838e082f828f1af937c94286f4e' 
-auth_token = '9f6522e34467d50f3dcaf2ca6ef06b54'
-my_twilio_phone = "+19514331094"
-my_phone_number = "+19893725605"
+auth_token = '###################################'
+my_twilio_phone = "+############"
+my_phone_number = "+############"
 a = 0
 b= dt.now().second
 hosts_path = "hosts"
