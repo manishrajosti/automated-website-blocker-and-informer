@@ -1,0 +1,22 @@
+{
+  "name": "automated-website-blocker-and-informer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishrajosti/automated-website-blocker-and-informer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishrajosti/automated-website-blocker-and-informer/issues"
+  },
+  "homepage": "https://github.com/manishrajosti/automated-website-blocker-and-informer#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
