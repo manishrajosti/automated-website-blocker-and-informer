@@ -10,7 +10,7 @@ a = 0
 b= dt.now().second
 hosts_path = "hosts"
 redirectTO = "127.0.0.1"
-website_list = ["www.abc.com", "facebook.com", "twitter.com"]
+website_list = ["www.abc.com", "facebook.com", "www.nepal.com"]
 
 def sendSMS():
     client = Client(account_sid, auth_token)
